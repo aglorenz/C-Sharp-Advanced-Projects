@@ -1,0 +1,12 @@
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\bin\Debug\EF6StudentDB.exe.config
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\bin\Debug\EF6StudentDB.exe
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\bin\Debug\EF6StudentDB.pdb
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\bin\Debug\EntityFramework.dll
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\bin\Debug\EntityFramework.xml
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\obj\Debug\EF6StudentDB.csprojAssemblyReference.cache
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\obj\Debug\EF6StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\obj\Debug\EF6StudentDB.csproj.CopyComplete
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\obj\Debug\EF6StudentDB.exe
+C:\Users\Andy\Source\Repos\C-Sharp-Advanced-Projects\EF6StudentDB\EF6StudentDB\obj\Debug\EF6StudentDB.pdb
